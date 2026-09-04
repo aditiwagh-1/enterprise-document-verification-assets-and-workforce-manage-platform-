@@ -671,7 +671,7 @@ tr:hover {
 
 </style>
 
-</head>
+</Head>
 
 
 <body>
